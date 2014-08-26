@@ -135,5 +135,10 @@
         <name>coin-a-c-144-releases</name>
         <url>http://localhost:8082/artifactory/ext-release-local</url>
     </repository>
+        <snapshotRepository>
+        <id>coin-a-c-144</id>
+        <name>coin-a-c-144-snapshots</name>
+        <url>http://localhost:8082/artifactory/ext-snapshot-local</url>
+    </snapshotRepository>
 </distributionManagement>
 </project>
