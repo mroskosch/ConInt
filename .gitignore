@@ -1,5 +1,7 @@
 .settings
 .idea
+.project
+.classpath
 atlassian-ide-plugin.xml
 target
 *.iml
